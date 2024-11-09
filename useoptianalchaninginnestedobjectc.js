@@ -6,12 +6,12 @@ function getUserContact(user) {
   
 
   const userWithPhone = {
-    name: "Alice",
+    name: "Ali",
     contact: { phone: "123-456-7890" },
   };
   
   const userWithoutPhone = {
-    name: "Bob"
+    name: "saeed"
   };
   
 
